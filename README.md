@@ -10,17 +10,39 @@
 
 ## Tecnologías usadas::computer::hammer_and_wrench:
 
-* **Frontend**: ![React](https://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=React&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-2E2E2E?style=for-the-badge&logo=Next.js&logoColor=white) ![TypeScrip](https://img.shields.io/badge/TypeScript-2E2E2E?style=for-the-badge&logo=TypeScript&logoColor=3178C6) ![Tailwind](https://img.shields.io/badge/Tailwind-2E2E2E?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4) ![FramerMotion](https://img.shields.io/badge/FramerMotion-2E2E2E?style=for-the-badge&logo=Framer&logoColor=C600E0) ![Firebase](https://img.shields.io/badge/Firebase-2E2E2E?style=for-the-badge&logo=Firebase&logoColor=FFCA28) ![Axios](https://img.shields.io/badge/Axios-2E2E2E?style=for-the-badge&logo=Axios&logoColor=5A29E4) ![ReduxTLK](https://img.shields.io/badge/ReduxTLK-2E2E2E?style=for-the-badge&logo=Redux&logoColor=764ABC)
+* **Frontend**: 
+
+![React](https://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=React&logoColor=61DAFB) 
+
+![Next.js](https://img.shields.io/badge/Next.js-2E2E2E?style=for-the-badge&logo=Next.js&logoColor=white)
+
+![TypeScrip](https://img.shields.io/badge/TypeScript-2E2E2E?style=for-the-badge&logo=TypeScript&logoColor=3178C6) 
+
+![Tailwind](https://img.shields.io/badge/Tailwind-2E2E2E?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4) 
+
+![FramerMotion](https://img.shields.io/badge/FramerMotion-2E2E2E?style=for-the-badge&logo=Framer&logoColor=C600E0) 
+
+![Firebase](https://img.shields.io/badge/Firebase-2E2E2E?style=for-the-badge&logo=Firebase&logoColor=FFCA28) 
+
+![Axios](https://img.shields.io/badge/Axios-2E2E2E?style=for-the-badge&logo=Axios&logoColor=5A29E4) 
+
+![ReduxTLK](https://img.shields.io/badge/ReduxTLK-2E2E2E?style=for-the-badge&logo=Redux&logoColor=764ABC)
  
 * **Backend**: 
-![Java](https://img.shields.io/badge/Java-2E2E2E?style=for-the-badge&logo=Java&logoColor=FF160B) ![Srpingboot](https://img.shields.io/badge/Springboot-2E2E2E?style=for-the-badge&logo=Springboot&logoColor=6DB33F) 
+ 
+![Java](https://img.shields.io/badge/Java-2E2E2E?style=for-the-badge&logo=Java&logoColor=FF160B) 
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-2E2E2E?style=for-the-badge&logo=Postgresql&logoColor=4169E1) ![Maven](https://img.shields.io/badge/Maven-2E2E2E?style=for-the-badge&logo=Apachemaven&logoColor=C71A36) 
+![Srpingboot](https://img.shields.io/badge/Springboot-2E2E2E?style=for-the-badge&logo=Springboot&logoColor=6DB33F) 
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-2E2E2E?style=for-the-badge&logo=Postgresql&logoColor=4169E1) 
+
+![Maven](https://img.shields.io/badge/Maven-2E2E2E?style=for-the-badge&logo=Apachemaven&logoColor=C71A36) 
 
 ![Junit](https://img.shields.io/badge/Junit-2E2E2E?style=for-the-badge&logo=JUnit5&logoColor=25A162) ![Mockito](https://img.shields.io/badge/Mockito-2E2E2E?style=for-the-badge&logo=Mockito&logoColor=FF160B)
 * **Diseño UX/UI:** ![Figma](https://img.shields.io/badge/Figma-2E2E2E?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Illustrator](https://img.shields.io/badge/Illustrator-2E2E2E?style=for-the-badge&logo=AdobeIllustrator&logoColor=FF9A00)
  
 ## Equipo: :female-technologist::skin-tone-2::raised_hands::male-technologist::skin-tone-2:
+
 *Frontend*:
 
 * Alan Telo <a href="https://github.com/agtelo"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/alan-gabriel-telo/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
@@ -37,7 +59,8 @@
 * Dimitry Borovskikh <a href="https://github.com/dimantos"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/dimantos/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 * 
 * Milton Figueredo <a href="https://github.com/Miles-Arts"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/milton-figueredo-miles-arts/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-* 
+
+
 *UX/UI*:
 
 * Catalina Villanueva <a href="https://www.behance.net/catavillanueva"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/catalina-villanueva/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
