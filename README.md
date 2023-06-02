@@ -29,7 +29,7 @@
 ![Junit](https://img.shields.io/badge/Junit-2E2E2E?style=for-the-badge&logo=JUnit5&logoColor=25A162) ![Mockito](https://img.shields.io/badge/Mockito-2E2E2E?style=for-the-badge&logo=Mockito&logoColor=FF160B)
 
 
-**Diseño UX/UI:** 
+**Diseño UX/UI:** <br>
 ![Figma](https://img.shields.io/badge/Figma-2E2E2E?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Illustrator](https://img.shields.io/badge/Illustrator-2E2E2E?style=for-the-badge&logo=AdobeIllustrator&logoColor=FF9A00)
 
 
