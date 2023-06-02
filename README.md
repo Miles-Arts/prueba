@@ -11,7 +11,7 @@
 </div>
 
 ## Tecnologías usadas::computer::hammer_and_wrench:
-<br>
+
 **Frontend**: <br>
 ![React](https://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=React&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-2E2E2E?style=for-the-badge&logo=Next.js&logoColor=white)
 
@@ -28,12 +28,12 @@
 
 ![Junit](https://img.shields.io/badge/Junit-2E2E2E?style=for-the-badge&logo=JUnit5&logoColor=25A162) ![Mockito](https://img.shields.io/badge/Mockito-2E2E2E?style=for-the-badge&logo=Mockito&logoColor=FF160B)
 
-<br>
+
 **Diseño UX/UI:** 
  
 ![Figma](https://img.shields.io/badge/Figma-2E2E2E?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Illustrator](https://img.shields.io/badge/Illustrator-2E2E2E?style=for-the-badge&logo=AdobeIllustrator&logoColor=FF9A00)
 
-<br>
+
 ## Equipo:  👩‍💻 :raised_hands: 👩‍💻
 *Frontend*: <br>
 * Alan Telo <br>
@@ -47,7 +47,8 @@
  
 * Jesús Chacon <br>
 <a href="https://github.com/Afrozens"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/jesus-chacon-b54b4a223/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
- <br>
+
+
 *Backend*: <br>
 * Liliana Gallego <br>
 <a href="https://github.com/LilianaGallego"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/lilianagallegom/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
@@ -57,7 +58,8 @@
 
 * Milton Figueredo <br>
 <a href="https://github.com/Miles-Arts"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/milton-figueredo-miles-arts/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-<br>
+
+
 *UX/UI*: <br>
 * Catalina Villanueva <br> <a href="https://www.behance.net/catavillanueva"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/catalina-villanueva/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
@@ -67,11 +69,11 @@
  
 * Cristian Aratto  <br> <a href="https://www.behance.net/cristianarattoux"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/cristian-aratto/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
-<br>
+
 *Team lider*:<br>
 * Melisa Braslavsky <br> <a href="https://www.linkedin.com/in/melisa-braslavsky/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
- <br>
+
 ## Deploy: :rocket::checkered_flag: <br>
 [Burofy](http://c11-18-ft-java-react-buro-fy-qkd2.vercel.app/)
 ` http://c11-18-ft-java-react-buro-fy-qkd2.vercel.app/ `
