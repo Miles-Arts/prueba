@@ -36,7 +36,7 @@
 ## Equipo: :female-technologist::skin-tone-2::raised_hands::male-technologist::skin-tone-2:
 
 *Frontend*: <br>
-* Alan Telo 
+* Alan Telo <br>
 <a href="https://github.com/agtelo"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/alan-gabriel-telo/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
 * Eugenia Gramajo <br>
@@ -72,7 +72,7 @@
 * Melisa Braslavsky <br> <a href="https://www.linkedin.com/in/melisa-braslavsky/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
  
-## Deploy: :rocket::checkered_flag:
+## Deploy: :rocket::checkered_flag: <br>
 [Burofy](http://c11-18-ft-java-react-buro-fy-qkd2.vercel.app/)
 ` http://c11-18-ft-java-react-buro-fy-qkd2.vercel.app/ `
 </hr>
