@@ -64,9 +64,10 @@
  
 * Víctor Dzul <a href="https://www.behance.net/victordzul"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/victordzul/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Cristian Aratto <a href="https://www.behance.net/cristianarattoux"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/cristian-aratto/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>* 
-*Team lider*:
+* Cristian Aratto <a href="https://www.behance.net/cristianarattoux"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/cristian-aratto/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
+
+*Team lider*:
 * Melisa Braslavsky <a href="https://www.linkedin.com/in/melisa-braslavsky/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
  
