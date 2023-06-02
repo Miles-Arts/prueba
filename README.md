@@ -4,14 +4,15 @@
 <div aling="center">
 <img src="https://media.discordapp.net/attachments/689676081430921274/1113867403219189852/burofy_logo.jpeg">
   
-  
+ <br>
+  <br>
 <p>Es una Web App que te ayuda a encontrar a un profesional en temas de materia legal de acuerdo a tus necesidades, velando siempre por tu confianza. Como profesional que ofrece servicios, te permite ampliar tu cartera de clientes y crear reputación en la misma plataforma gracias al sistema de reseñas. De esta manera, Burofy permite la conexión entre ambos perfiles
 </p>
 </div>
 
 ## Tecnologías usadas::computer::hammer_and_wrench:
 
-* **Frontend**: 
+* **Frontend**: <br>
 ![React](https://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=React&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-2E2E2E?style=for-the-badge&logo=Next.js&logoColor=white)
 
 ![TypeScrip](https://img.shields.io/badge/TypeScript-2E2E2E?style=for-the-badge&logo=TypeScript&logoColor=3178C6) ![Tailwind](https://img.shields.io/badge/Tailwind-2E2E2E?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4) 
@@ -34,41 +35,41 @@
 
 ## Equipo: :female-technologist::skin-tone-2::raised_hands::male-technologist::skin-tone-2:
 
-*Frontend*:
+*Frontend*: <br>
 * Alan Telo 
 <a href="https://github.com/agtelo"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/alan-gabriel-telo/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Eugenia Gramajo 
+* Eugenia Gramajo <br>
 <a href="https://github.com/EugeniaGramajo"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/eugenia-gramajo/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Jorge Sánchez
+* Jorge Sánchez <br>
 <a href="https://github.com/jorge4684"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/jorge-sanchez-bb3183255"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Jesús Chacon 
+* Jesús Chacon <br>
 <a href="https://github.com/Afrozens"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/jesus-chacon-b54b4a223/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-*Backend*:
-* Liliana Gallego 
+*Backend*: <br>
+* Liliana Gallego <br>
 <a href="https://github.com/LilianaGallego"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/lilianagallegom/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Dimitry Borovskikh 
+* Dimitry Borovskikh  <br>
 <a href="https://github.com/dimantos"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/dimantos/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
-* Milton Figueredo 
+* Milton Figueredo <br>
 <a href="https://github.com/Miles-Arts"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/milton-figueredo-miles-arts/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
-*UX/UI*:
-* Catalina Villanueva <a href="https://www.behance.net/catavillanueva"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/catalina-villanueva/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+*UX/UI*: <br>
+* Catalina Villanueva <br> <a href="https://www.behance.net/catavillanueva"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/catalina-villanueva/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Regina Baños <a href="https://scythe-syzygy-0f0.notion.site/Regina-Ba-os-656ad6f63d6d4a8e9e98b71f728c5b8c"><img src="https://img.shields.io/badge/_-000000?style=for-the-badge&logo=notion&logoColor=white"></a> <a href="https://www.linkedin.com/in/regina-ba%C3%B1os-mart%C3%ADnez-69b897244/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+* Regina Baños <br> <a href="https://scythe-syzygy-0f0.notion.site/Regina-Ba-os-656ad6f63d6d4a8e9e98b71f728c5b8c"><img src="https://img.shields.io/badge/_-000000?style=for-the-badge&logo=notion&logoColor=white"></a> <a href="https://www.linkedin.com/in/regina-ba%C3%B1os-mart%C3%ADnez-69b897244/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Víctor Dzul <a href="https://www.behance.net/victordzul"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/victordzul/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+* Víctor Dzul  <br> <a href="https://www.behance.net/victordzul"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/victordzul/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Cristian Aratto <a href="https://www.behance.net/cristianarattoux"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/cristian-aratto/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+* Cristian Aratto  <br> <a href="https://www.behance.net/cristianarattoux"><img src="https://img.shields.io/badge/_-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://www.linkedin.com/in/cristian-aratto/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
 
-*Team lider*:
-* Melisa Braslavsky <a href="https://www.linkedin.com/in/melisa-braslavsky/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+*Team lider*:<br>
+* Melisa Braslavsky <br> <a href="https://www.linkedin.com/in/melisa-braslavsky/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
  
 ## Deploy: :rocket::checkered_flag:
