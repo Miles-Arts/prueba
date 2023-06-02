@@ -34,7 +34,7 @@
 ![Figma](https://img.shields.io/badge/Figma-2E2E2E?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Illustrator](https://img.shields.io/badge/Illustrator-2E2E2E?style=for-the-badge&logo=AdobeIllustrator&logoColor=FF9A00)
 
 
-## Equipo: :female-technologist::skin-tone-2::raised_hands::male-technologist::skin-tone-2:
+## Equipo:  👩‍💻 :female-technologist::skin-tone-2: :raised_hands::male-technologist: :skin-tone-2:
 
 *Frontend*: <br>
 * Alan Telo <br>
