@@ -12,7 +12,7 @@
 
 ## Tecnologías usadas::computer::hammer_and_wrench:
 <br>
-* **Frontend**: <br>
+**Frontend**: <br>
 ![React](https://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=React&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-2E2E2E?style=for-the-badge&logo=Next.js&logoColor=white)
 
 ![TypeScrip](https://img.shields.io/badge/TypeScript-2E2E2E?style=for-the-badge&logo=TypeScript&logoColor=3178C6) ![Tailwind](https://img.shields.io/badge/Tailwind-2E2E2E?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4) 
@@ -21,7 +21,7 @@
 
 ![Axios](https://img.shields.io/badge/Axios-2E2E2E?style=for-the-badge&logo=Axios&logoColor=5A29E4) ![ReduxTLK](https://img.shields.io/badge/ReduxTLK-2E2E2E?style=for-the-badge&logo=Redux&logoColor=764ABC)
  
-* **Backend**: <br>
+**Backend**: <br>
 ![Java](https://img.shields.io/badge/Java-2E2E2E?style=for-the-badge&logo=Java&logoColor=FF160B) ![Srpingboot](https://img.shields.io/badge/Springboot-2E2E2E?style=for-the-badge&logo=Springboot&logoColor=6DB33F) 
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-2E2E2E?style=for-the-badge&logo=Postgresql&logoColor=4169E1) ![Maven](https://img.shields.io/badge/Maven-2E2E2E?style=for-the-badge&logo=Apachemaven&logoColor=C71A36) 
@@ -29,7 +29,7 @@
 ![Junit](https://img.shields.io/badge/Junit-2E2E2E?style=for-the-badge&logo=JUnit5&logoColor=25A162) ![Mockito](https://img.shields.io/badge/Mockito-2E2E2E?style=for-the-badge&logo=Mockito&logoColor=FF160B)
 
 <br>
-* **Diseño UX/UI:** 
+**Diseño UX/UI:** 
  
 ![Figma](https://img.shields.io/badge/Figma-2E2E2E?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Illustrator](https://img.shields.io/badge/Illustrator-2E2E2E?style=for-the-badge&logo=AdobeIllustrator&logoColor=FF9A00)
 
