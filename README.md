@@ -16,7 +16,7 @@
 
 ![TypeScrip](https://img.shields.io/badge/TypeScript-2E2E2E?style=for-the-badge&logo=TypeScript&logoColor=3178C6) ![Tailwind](https://img.shields.io/badge/Tailwind-2E2E2E?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4) 
 
-![FramerMotion](https://img.shields.io/badge/FramerMotion-2E2E2E?style=for-the-badge&logo=Framer&logoColor=C600E0) ![Firebase (https://img.shields.io/badge/Firebase-2E2E2E?style=for-the-badge&logo=Firebase&logoColor=FFCA28) 
+![FramerMotion](https://img.shields.io/badge/FramerMotion-2E2E2E?style=for-the-badge&logo=Framer&logoColor=C600E0) ![Firebase ](https://img.shields.io/badge/Firebase-2E2E2E?style=for-the-badge&logo=Firebase&logoColor=FFCA28) 
 
 ![Axios](https://img.shields.io/badge/Axios-2E2E2E?style=for-the-badge&logo=Axios&logoColor=5A29E4) ![ReduxTLK](https://img.shields.io/badge/ReduxTLK-2E2E2E?style=for-the-badge&logo=Redux&logoColor=764ABC)
  
@@ -37,20 +37,27 @@
 
 *Frontend*:
 
-* Alan Telo <a href="https://github.com/agtelo"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/alan-gabriel-telo/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+* Alan Telo 
+<a href="https://github.com/agtelo"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/alan-gabriel-telo/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Eugenia Gramajo <a href="https://github.com/EugeniaGramajo"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/eugenia-gramajo/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+* Eugenia Gramajo 
+<a href="https://github.com/EugeniaGramajo"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/eugenia-gramajo/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Jorge Sánchez <a href="https://github.com/jorge4684"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/jorge-sanchez-bb3183255"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+* Jorge Sánchez
+<a href="https://github.com/jorge4684"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/jorge-sanchez-bb3183255"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Jesús Chacon <a href="https://github.com/Afrozens"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/jesus-chacon-b54b4a223/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+* Jesús Chacon 
+<a href="https://github.com/Afrozens"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/jesus-chacon-b54b4a223/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
 *Backend*:
-* Liliana Gallego <a href="https://github.com/LilianaGallego"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/lilianagallegom/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+* Liliana Gallego 
+<a href="https://github.com/LilianaGallego"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/lilianagallegom/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  
-* Dimitry Borovskikh <a href="https://github.com/dimantos"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/dimantos/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-* 
-* Milton Figueredo <a href="https://github.com/Miles-Arts"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/milton-figueredo-miles-arts/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+* Dimitry Borovskikh 
+<a href="https://github.com/dimantos"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/dimantos/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+
+* Milton Figueredo 
+<a href="https://github.com/Miles-Arts"><img src="https://img.shields.io/badge/_-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/milton-figueredo-miles-arts/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
 
 *UX/UI*:
