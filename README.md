@@ -20,7 +20,7 @@
 
 ![Axios](https://img.shields.io/badge/Axios-2E2E2E?style=for-the-badge&logo=Axios&logoColor=5A29E4) ![ReduxTLK](https://img.shields.io/badge/ReduxTLK-2E2E2E?style=for-the-badge&logo=Redux&logoColor=764ABC)
  
-* **Backend**: 
+* **Backend**: <br>
 ![Java](https://img.shields.io/badge/Java-2E2E2E?style=for-the-badge&logo=Java&logoColor=FF160B) ![Srpingboot](https://img.shields.io/badge/Springboot-2E2E2E?style=for-the-badge&logo=Springboot&logoColor=6DB33F) 
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-2E2E2E?style=for-the-badge&logo=Postgresql&logoColor=4169E1) ![Maven](https://img.shields.io/badge/Maven-2E2E2E?style=for-the-badge&logo=Apachemaven&logoColor=C71A36) 
